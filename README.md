@@ -1,0 +1,1 @@
+Android Device Controlled Robot Car, which is a microcontroller-based project. It is robot car, having feature of obstacle detecting, android controlling option.
